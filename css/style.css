@@ -1,0 +1,11 @@
+.shuffle-title{
+	font-size: 25px;
+	text-align: center;
+	margin-top: 25px;
+}
+input.shuffle-colors{
+	padding: 2px 5px;
+}
+input.picker{
+	padding: 2px 5px;
+}
